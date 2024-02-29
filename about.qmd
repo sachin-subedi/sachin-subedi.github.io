@@ -1,0 +1,14 @@
+---
+title: ""
+editor: visual
+---
+
+I am a first-year Ph.D. in Bioinformatics at the University of Georgia, focusing on Molecular Epidemiology. My research involves developing advanced computational and statistical methods to understand the ecology, epidemiology, evolution, and transmission dynamics of viruses with pandemic potential, like influenza and SARS-COV2.
+
+# Research Interests
+
+- **Molecular Phylogenetics of Highly Pathogenic Avian Influenza**
+- **Virus Evolution**
+- **Computational Biology of RNA viruses**
+- **Infectious Disease Modeling**
+- **Bayesian Inference of Virus Phylogenies**

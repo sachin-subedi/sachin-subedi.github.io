@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sachin's personal website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - resume.qmd
+      - publications.qmd
+      - projects.qmd
+      - media.qmd
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly 
+    mainfont: Computer Modern
+    fontsize: 1.2rem
+    css: styles.css
+    toc: true
+
+
+
