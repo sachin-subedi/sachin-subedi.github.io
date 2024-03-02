@@ -152,5 +152,12 @@
     "title": "Projects",
     "section": "3. Multiple Behavior Classification of Cage-Free Laying Hens Using Deep Learning",
     "text": "3. Multiple Behavior Classification of Cage-Free Laying Hens Using Deep Learning\nThis study presents the development of three deep learning models (YOLOv5s_BH, YOLOv5x_BH, and YOLOv7_BH) aimed at classifying multiple behaviors of cage-free laying hens, enhancing the welfare and management of poultry production. By utilizing a comprehensive dataset and the advanced YOLO (You Only Look Once) technology, the research achieved significant precision in behavior detection, contributing to precision poultry farming advancements. This project underscores the potential of machine vision technologies in automating and improving animal welfare monitoring in agricultural practices.\n  —"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "2023 PSA Annual Meeting, San Antonio, TX, July 12, 2023: Multiple Behavior Classification of Cage-Free Laying Hens Using Deep Learning (Oral)"
   }
 ]
