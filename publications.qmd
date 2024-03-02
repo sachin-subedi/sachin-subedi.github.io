@@ -3,9 +3,7 @@ title: "Publications"
 editor: visual
 ---
 
-::: wordwrap
-You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
-:::
+You can also find my articles [Google Scholar Publications](https://scholar.google.com/citations?user=IoPTSnQAAAAJ&hl=en)
 
 # Published Journal Articles
 
