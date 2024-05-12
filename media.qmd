@@ -1,0 +1,12 @@
+---
+title: "Media"
+editor: visual
+---
+
+## Ultralytics Tweet on Our Research
+
+We're excited to announce that **Ultralytics**, a top company in creating AI models, has noticed our research. **Ultralytics** is known for its cutting-edge AI work, especially its Ultralytics YOLO (You Only Look Once) technology. This technology is at the forefront of image classification and object detection, setting benchmarks for speed, accuracy, and efficiency in vision AI. Their shout-out to our work on Twitter shows that what we're doing is important and impactful. Being recognized by such an influential company in AI proves that our research is valuable and makes a real difference in the tech and science worlds.
+
+Check out the tweet by Ultralytics [here](https://twitter.com/ultralytics/status/1609111003609923592).
+
+## ![Tweet by Ultralytics](/images/X.png)
