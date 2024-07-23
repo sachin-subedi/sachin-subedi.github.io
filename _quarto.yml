@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sachin's personal website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - resume.qmd
+      - publications.qmd
+      - presentations.qmd
+      - projects.qmd
+      - media.qmd
+      
+  page-footer:
+    left: "© Copyright 2024 Sachin Subedi. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly 
+    mainfont: Computer Modern
+    fontsize: 1.2rem
+    css: styles.css
+    toc: true
+
+
