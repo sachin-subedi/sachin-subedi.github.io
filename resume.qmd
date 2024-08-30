@@ -1,0 +1,82 @@
+---
+title: "Resume"
+editor: visual
+---
+
+## Education
+
+-   Ph.D. in Bioinformatics, University of Georgia (2023 to present)
+-   M.S. in Poultry Science, University of Georgia (2021 to 2023)
+-   B.V.Sc. & A.H., Agriculture and Forestry University, Nepal (2013 to 2018)
+
+## Work Experience
+
+**Graduate Research Assistant, Institute of Bioinformatics, UGA** (2023 to present)
+
+-   Bioinformatics, Genomic Epidemiology, Infectious Disease Modeling
+-   Advisor: [Dr. Justin Bahl](https://vet.uga.edu/person/justin-bahl/)
+
+**Graduate Research Assistant, Department of Poultry Science, UGA** (2021 to 2023)
+
+-   **Thesis: Application of Deep Learning for Monitoring Welfare and Behaviors of Cage-Free Laying Hens.**
+-   Advisor: [Dr. Lilong Chai](https://poultry.caes.uga.edu/content/caes-subsite/poultry/people/faculty/lilong-chai.html)
+
+**Member (2024 to present)**
+
+-   [Center for the Ecology of Infectious Diseases (CEID)](https://www.ceid.uga.edu/), University of Georgia
+-   Center for Applied Pathogen Epidemiology and Outbreak Control (CAPE), University of Georgia
+
+**Veterinary Science Instructor** (2019 to 2021)
+
+-   Shree Baraha Higher Secondary School
+
+**Editor in Chief** (2017 to 2018)
+
+-   The Blue Cross ISSN:2091-0945
+
+## Publications
+
+[Google Scholar Publications](https://scholar.google.com/citations?user=IoPTSnQAAAAJ&hl=en)
+
+## Peer Review Works for Journals
+
+-   Computer and Electronics in Agriculture **(IF: 8.3)**
+-   Scientific Reports **(IF: 3.8)**
+-   Sensors **(IF: 3.9)**
+-   Animals **(IF: 3.0)**
+
+## Workshop
+
+Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)
+
+-   Spatial Statistics in Epidemiology and Public Health
+-   Reconstructing Transmission with Genomic Data
+-   Introduction to Machine Learning for ID Modeling
+
+## Skills
+
+-   Programming in Python, R, C++ (Basic), SQL
+-   Deep Learning with PyTorch, TensorFlow2, Keras, OpenCV
+-   Linux command line interface
+
+## Awards and Grants
+
+-   Scholarship for Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID) 2024 at Emory University.
+-   Travel Award from Department of Epidemiology and Biostatistics to attend Centers of Excellence for Influenza Research and Response (CEIRR) 2024 conference at New York.
+-   Travel Award from Institute of Bioinformatics to attend EEID 2024 conference at Stanford University.
+-   Serene Nepal Veterinary Association Rotary Award (2018): Awarded for securing the highest marks in the third year of the bachelor's program.
+-   IVSA Scholarship Grant (2018): Received a grant of 1000 euros for an internship opportunity.
+-   Nepal Government Fellowship (2013): Granted a fellowship to pursue the Doctor of Veterinary Medicine program.
+
+## Externship and Training
+
+-   **Instructional Skills Training**
+    -   17 days training on Instructional skills for TVET Instructors-Part-I (2020)
+-   **Surgery Training**
+    -   15-day Surgery Training at WVS Hicks ITC Goa (2019)
+-   **Externship**
+    -   SKS Pet Hospital, Chennai, Tamil Nadu, India (2018)
+-   **Internship**
+    -   District Livestock Service Office (DLSO), Pokhara-12, Kaski (2018)
+
+------------------------------------------------------------------------

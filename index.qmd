@@ -1,0 +1,42 @@
+---
+title: "Sachin Subedi"
+image: /images/100.jpg
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/sachin-subedi
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=IoPTSnQAAAAJ&hl=en
+    - icon: 0-circle-fill
+      text: ORCID
+      href: https://orcid.org/0000-0002-1145-8880
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sachin-subedi-8b75a9b0/
+    - icon: envelope-paper-fill
+      text: Email
+      href: mailto:Sachin.Subedi@uga.edu
+    - icon: r-square-fill
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Sachin-Subedi
+    - icon: globe2
+      text: Website
+      href: https://sachin-subedi.github.io//
+---
+
+I am a  Ph.D. student in Bioinformatics at the University of Georgia, focusing on Genomic Epidemiology. My research involves developing advanced computational and statistical methods to understand the ecology, epidemiology, evolution, and transmission dynamics of viruses with pandemic potential, like Highly Pathogenic Avian Influenza.
+
+# Research Interests
+
+- **Molecular Phylogenetics of Highly Pathogenic Avian Influenza**
+- **Virus Evolution**
+- **Computational Biology of RNA viruses**
+- **Infectious Disease Modeling**
+- **Bayesian Inference of Virus Phylogenies**
+
+

@@ -1,0 +1,36 @@
+---
+title: "Projects"
+editor: visual
+---
+
+#  PhD Projects
+
+## 1. Phylodynamics of the H5Nx Clade 2.3.4.4b Avian Influenza Outbreak in Europe
+
+The HPAI H5Nx virus, belonging to the clade 2.3.4.4b of the Gs/GD lineage, has presented significant risks to poultry enterprises and the broader community across various countries since its initial emergence. These viruses continue to evolve globally, and the migration of birds facilitates the spread of new strains, which may carry mutations that allow for better adaptation to mammals. We aim to study phylogeographic diffusion patterns of HPAI H5Nx virus 2.3.4.4b clade and perform discrete phylogeographic analysis to identify source-sink dynamics and virus diffusion in Europe.
+
+![](/images/PHD.png)
+
+# MS Projects
+
+## 1. Monitoring Cage-free Hens’ Pecking with Deep Learning
+
+This project focuses on leveraging deep learning models to monitor and analyze pecking behavior in cage-free hens, aiming to improve poultry welfare and reduce economic losses through precision farming techniques. By utilizing advanced machine vision methods, we developed a system capable of detecting pecking behavior with high precision, offering insights into the social dynamics and welfare of hens in a cage-free environment.
+
+![](/images/PK.png){width="100%"}
+
+For more information, visit [Monitoring Cage-free Hens' Pecking with Deep Learning](https://site.caes.uga.edu/precisionpoultry/2023/01/monitoring-cage-free-hens-pecking-with-deep-learning/).
+
+## 2. Tracking Floor Eggs in Cage-free Houses with Machine Vision Technologies
+
+This project introduces a novel approach to addressing the challenge of floor eggs in cage-free hen houses using machine vision technologies. By developing and comparing three new deep learning models (YOLOv5s-egg, YOLOv5x-egg, and YOLOv7-egg), the study achieved high precision in detecting floor eggs, which are prone to contamination and difficult to collect manually. This advancement not only improves efficiency in egg production but also sets the stage for further innovations in precision poultry farming, including the potential for automated egg collection systems.
+
+![Performance of models in detection floor eggs (UGA farm)](/images/E1.jpg){width="100%"} ![Performance of models in detection of floor eggs (Commercial farm)](/images/E2.jpg){width="100%"}
+
+For more details, visit the [Tracking Floor Eggs in Cage-free Houses with Machine Vision Technologies](https://site.caes.uga.edu/precisionpoultry/2023/03/tracking-floor-eggs-in-cage-free-houses-with-machine-vision-technologies/).
+
+## 3. Multiple Behavior Classification of Cage-Free Laying Hens Using Deep Learning
+
+This study presents the development of three deep learning models (YOLOv5s_BH, YOLOv5x_BH, and YOLOv7_BH) aimed at classifying multiple behaviors of cage-free laying hens, enhancing the welfare and management of poultry production. By utilizing a comprehensive dataset and the advanced YOLO (You Only Look Once) technology, the research achieved significant precision in behavior detection, contributing to precision poultry farming advancements. This project underscores the potential of machine vision technologies in automating and improving animal welfare monitoring in agricultural practices.
+
+![Feeding, Foraging, Perching and Drinking behaviors were detected](/images/M1.png){width="100%"} ![Feeding and Foraging behaviors were detected](/images/M2.jpg){width="100%"} ---
