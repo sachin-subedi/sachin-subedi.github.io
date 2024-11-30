@@ -18,13 +18,13 @@ editor: visual
 
 **Graduate Research Assistant, Department of Poultry Science, UGA** (2021 to 2023)
 
--   **Thesis: Application of Deep Learning for Monitoring Welfare and Behaviors of Cage-Free Laying Hens.**
+-   ***Thesis: Application of Deep Learning for Monitoring Welfare and Behaviors of Cage-Free Laying Hens.***
 -   Advisor: [Dr. Lilong Chai](https://poultry.caes.uga.edu/content/caes-subsite/poultry/people/faculty/lilong-chai.html)
 
 **Member (2024 to present)**
 
 -   [Center for the Ecology of Infectious Diseases (CEID)](https://www.ceid.uga.edu/), University of Georgia
--   Center for Applied Pathogen Epidemiology and Outbreak Control (CAPE), University of Georgia
+-   [Center for Applied Pathogen Epidemiology and Outbreak Control (CAPE)](https://www.pgcoe-cape.org/), University of Georgia
 
 **Veterinary Science Instructor** (2019 to 2021)
 
@@ -41,9 +41,14 @@ editor: visual
 ## Peer Review Works for Journals
 
 -   Computer and Electronics in Agriculture **(IF: 8.3)**
+
 -   Scientific Reports **(IF: 3.8)**
+
 -   Sensors **(IF: 3.9)**
+
 -   Animals **(IF: 3.0)**
+
+-   AgriEngineering **(IF: 3.0)**
 
 ## Workshop
 

@@ -5,15 +5,19 @@ editor: visual
 
 # Presentations (Talks and Posters)
 
-1.  **2024 CEIRR 3rd Annual Network Meeting, New York Academy of Medicine, NY, July 23, 2024:** Phylogeographic Diffusion and Host Dynamics of HPAI H5Nx Virus Clade 2.3.4.4b in Europe (Poster)
+1.  **2024 Symposium: Ecology and Evolution of Influenza Viruses, University of Georgia, GA, Nov 18, 2024:** Investigating the Ecological and Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe (Poster)
+
+    ![](images/N1-01.jpg)
+
+2.  **2024 CEIRR 3rd Annual Network Meeting, New York Academy of Medicine, NY, July 23, 2024:** Phylogeographic Diffusion and Host Dynamics of HPAI H5Nx Virus Clade 2.3.4.4b in Europe (Poster)
 
     ![](/images/SS_CEIRR.jpeg)
 
-2.  **2024 Ecology and Evolution of Infectious Diseases, Stanford University, CA, July 25, 2024:** Phylodynamics of the H5Nx Clade 2.3.4.4b Avian Influenza Outbreak in Europe (Poster)
+3.  **2024 Ecology and Evolution of Infectious Diseases, Stanford University, CA, July 25, 2024:** Phylodynamics of the H5Nx Clade 2.3.4.4b Avian Influenza Outbreak in Europe (Poster)
 
     ![](/images/SS_EEID.jpg)
 
-3.  **2023 PSA Annual Meeting, San Antonio, TX, July 12, 2023:** *Multiple Behavior Classification of Cage-Free Laying Hens Using Deep Learning* (Talk)
+4.  **2023 PSA Annual Meeting, San Antonio, TX, July 12, 2023:** *Multiple Behavior Classification of Cage-Free Laying Hens Using Deep Learning* (Talk)
 
 ![](/images/17.jpg)
 
