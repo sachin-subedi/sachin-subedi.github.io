@@ -55,7 +55,7 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 
 1.  Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2024). "Synergistic Effect of Electrostatic Space Charging and Bedding Management on Particulate Matter and Ammonia Control for Cage-Free Hens." Submitted to *Poultry Science*.
 
-2.  **Subedi, S**, Bist, R.B., Yang, X., and Chai, L. (2023). "Multiple Behavior Classification of Cage-Free Laying Hens using Deep Learning." Submitted to *AgriEngineering*.
+2.  **Subedi, S**, Bist, R.B., Yang, X., and Chai, L. (2023). "Advanced Deep Learning Methods for Multiple Behavior Classification of Cage-free Laying Hens." Submitted to *AgriEngineering*.
 
 3.  Lyu, L., Stott, G., Dailey, C., **Subedi, S**, Fujimoto, K., Penn, R., Brown, P., Sealy, R., and Bahl, J. (2024). "Tracing SARS-CoV-2 Clusters Across Local-scales Using Genomic Data". Submitted to Nature Communications.
 
