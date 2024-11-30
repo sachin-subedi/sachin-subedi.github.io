@@ -9,7 +9,7 @@ editor: visual
 
 The HPAI H5Nx virus, belonging to the clade 2.3.4.4b of the Gs/GD lineage, has presented significant risks to poultry enterprises and the broader community across various countries since its initial emergence. These viruses continue to evolve globally, and the migration of birds facilitates the spread of new strains, which may carry mutations that allow for better adaptation to mammals. We aim to study phylogeographic diffusion patterns of HPAI H5Nx virus 2.3.4.4b clade and perform discrete phylogeographic analysis to identify source-sink dynamics and virus diffusion in Europe.
 
-![](/images/PHD.png)
+![](images/Project1-02.png)
 
 # MS Projects
 
