@@ -13,7 +13,7 @@ editor: visual
 
 **Graduate Research Assistant, Institute of Bioinformatics, UGA** (2023 to present)
 
--   Bioinformatics, Genomic Epidemiology, Infectious Disease Modeling
+-   Bioinformatics, Genomic Epidemiology, Evolutionary Biology
 -   Advisor: [Dr. Justin Bahl](https://vet.uga.edu/person/justin-bahl/)
 
 **Graduate Research Assistant, Department of Poultry Science, UGA** (2021 to 2023)
