@@ -7,7 +7,7 @@ editor: visual
 
 1.  **2024 Symposium: Ecology and Evolution of Influenza Viruses, University of Georgia, GA, Nov 18, 2024:** Investigating the Ecological and Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe (Poster)
 
-    ![](images/N1-01.jpg)
+    ![](images/N1-01.jpg){width="1152"}
 
 2.  **2024 CEIRR 3rd Annual Network Meeting, New York Academy of Medicine, NY, July 23, 2024:** Phylogeographic Diffusion and Host Dynamics of HPAI H5Nx Virus Clade 2.3.4.4b in Europe (Poster)
 
