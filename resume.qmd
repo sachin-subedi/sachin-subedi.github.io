@@ -40,7 +40,7 @@ editor: visual
 
 ## Peer Review Works for Journals
 
--   Computer and Electronics in Agriculture **(IF: 8.3)**
+-   Computer and Electronics in Agriculture **(IF: 7.7)**
 
 -   Scientific Reports **(IF: 3.8)**
 
