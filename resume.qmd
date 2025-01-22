@@ -40,17 +40,19 @@ editor: visual
 
 ## Peer Review Works for Journals
 
--   Computer and Electronics in Agriculture **(IF: 7.7)**
+-   Computer and Electronics in Agriculture **(IF: 7.7)** \[3 Papers\]
 
--   Scientific Reports **(IF: 3.8)**
+-   Scientific Reports **(IF: 3.8)** \[1 Paper\]
 
--   Sensors **(IF: 3.9)**
+-   Sensors **(IF: 3.9)** \[1 Paper\]
 
--   Animals **(IF: 3.0)**
+-   Animals **(IF: 3.0)** \[1 Paper\]
 
--   AgriEngineering **(IF: 3.0)**
+-   AgriEngineering **(IF: 3.0)** \[1 Paper\]
 
--   Applied Sciences **(IF: 2.5)**
+-   Applied Sciences **(IF: 2.5)** \[1 paper\]
+
+-   Veterinary Sciences **(IF: 2.0)** \[1 Paper\]
 
 ## Workshop
 
