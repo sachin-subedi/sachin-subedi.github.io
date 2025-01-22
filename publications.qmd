@@ -63,8 +63,7 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 
 5.  Yang, X., Bist, R.B., **Subedi, S.**, and Chai, L. (2025). "The application of probiotics and prebiotics in poultry production." Submitted to *Encyclopedia*.
 
-6.  Peng, S., Carmola, L., Lyu, L., **Subedi, S,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "Evolving Fitness and Immune Escape: A Retrospective Analysis of
-    SARS-CoV-2 Spike Protein (2020-2024) Using Protein Language Model". Submitted to Nature Communications.
+6.  Peng, S., Carmola, L., Lyu, L., **Subedi, S,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "Evolving Fitness and Immune Escape: A Retrospective Analysis of SARS-CoV-2 Spike Protein (2020-2024) Using Protein Language Model". Submitted to Nature Communications.
 
 7.  **Subedi, S**, Mubassir, MHM., Rajamand, T., Lyu, L., Bakheet, M.A, Bahl, J. (2025). "Investigating the Ecological and Evolutionary Drivers of H5Nx HPAI Spread Across Species and Geographic Regions in Europe". To be submitted to PNAS.
 
