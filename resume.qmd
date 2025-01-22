@@ -50,6 +50,8 @@ editor: visual
 
 -   AgriEngineering **(IF: 3.0)**
 
+-   Applied Sciences **(IF: 2.5)**
+
 ## Workshop
 
 Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)

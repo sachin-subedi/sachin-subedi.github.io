@@ -51,7 +51,7 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 
 22. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "Temporal Variations of Air Quality in Cage-Free Experimental Pullet Houses." *Poultry*. [DOI](https://doi.org/10.3390/poultry2020024)
 
-# Manuscript Submitted to Journals
+# Manuscript Submitted/In Preparation to Journals
 
 1.  Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2024). "Synergistic Effect of Electrostatic Space Charging and Bedding Management on Particulate Matter and Ammonia Control for Cage-Free Hens." Submitted to *Poultry Science*.
 
@@ -62,6 +62,11 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 4.  Lyu, L., Stott, G., Dailey, C., **Subedi, S**, Fujimoto, K., Penn, R., Brown, P., Sealy, R., and Bahl, J. (2024). "Tracing SARS-CoV-2 Clusters Across Local-scales Using Genomic Data". Submitted to Nature Communications.
 
 5.  Yang, X., Bist, R.B., **Subedi, S.**, and Chai, L. (2025). "The application of probiotics and prebiotics in poultry production." Submitted to *Encyclopedia*.
+
+6.  Peng, S., Carmola, L., Lyu, L., **Subedi, S,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "Evolving Fitness and Immune Escape: A Retrospective Analysis of
+    SARS-CoV-2 Spike Protein (2020-2024) Using Protein Language Model". Submitted to Nature Communications.
+
+7.  **Subedi, S**, Mubassir, MHM., Rajamand, T., Lyu, L., Bakheet, M.A, Bahl, J. (2025). "Investigating the Ecological and Evolutionary Drivers of H5Nx HPAI Spread Across Species and Geographic Regions in Europe". To be submitted to PNAS.
 
 # Conference Abstracts
 
