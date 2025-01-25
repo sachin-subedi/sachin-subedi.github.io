@@ -36,7 +36,7 @@ I am a  Ph.D. student in Bioinformatics at the University of Georgia, focusing o
 - **Molecular Phylogenetics of Highly Pathogenic Avian Influenza**
 - **Virus Evolution**
 - **Computational Biology of RNA viruses**
-- **Infectious Disease Modeling**
+- **Infectious Diseases Modeling**
 - **Bayesian Inference of Virus Phylogenies**
 
 
