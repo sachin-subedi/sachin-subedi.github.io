@@ -7,7 +7,7 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 
 # Published Manuscripts
 
-1.  **Subedi, S,** Bist, R.B., Yang, X., Li, G., and Chai, L. (2025). "Advanced Deep Learning Methods for Multiple Behaviors Classification of Cage-Free Laying Hens." *AgriEngineering*. [DOI](https://doi.org/10.3390/agriengineering7020024)
+1.  **Subedi, S,** Bist, R.B., Yang, X., Li, G., and Chai, L. (2025). "Advanced Deep Learning Methods for Multiple Behavior Classification of Cage-Free Laying Hens." *AgriEngineering*. [DOI](https://doi.org/10.3390/agriengineering7020024)
 
 2.  Yang, X., Bist, R.B., **Subedi, S**, Wu, Z., Liu, T., Paneru, B., and Chai, L. (2024). "A Deep Learning Framework for Monitoring Wild Birds on Poultry Farms to Prevent Avian Influenza." *AgriEngineering*. [DOI](https://doi.org/10.3390/agriengineering6040211)
 
