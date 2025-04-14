@@ -46,13 +46,19 @@ editor: visual
 
 -   Sensors **(IF: 3.9)** \[1 Paper\]
 
--   Animals **(IF: 3.0)** \[1 Paper\]
+-   Sensors **(IF: 3.9)** \[1 Paper\]
+
+-   AI **(IF: 3.1)** \[1 Paper\]
+
+-   Infectious Disease Modeling **(IF: 3.0)** \[1 Paper\]
+
+-   Animals **(IF: 3.0)** \[4 Papers\]
 
 -   AgriEngineering **(IF: 3.0)** \[1 Paper\]
 
 -   Applied Sciences **(IF: 2.5)** \[1 paper\]
 
--   Veterinary Sciences **(IF: 2.0)** \[3 Papers\]
+-   Veterinary Sciences **(IF: 2.0)** \[5 Papers\]
 
 ## Workshop
 
