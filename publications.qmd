@@ -65,68 +65,72 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 
 4.  Peng, S., Carmola, L., Lyu, L., **Subedi, S,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "Evolving Fitness and Immune Escape: A Retrospective Analysis of SARS-CoV-2 Spike Protein (2020-2024) Using Protein Language Model". *Frontiers in Immunology.*.
 
-5.  Yang, X., Bist, R.B., **Subedi, S.**, and Chai, L. (2025). "The application of probiotics and prebiotics in poultry production." Submitted to *Encyclopedia*.
+5.  Peng, S., Carmola, L., Lyu, L., **Subedi, S,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "MHC-II-EpiPred: Sliding Window Scanning for MHC Class II Epitope Discovery via Protein Language Model". To be Submitted.
 
-6.  Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2024). "Synergistic Effect of Electrostatic Space Charging and Bedding Management on Particulate Matter and Ammonia Control for Cage-Free Hens." Submitted to *Poultry Science*.
+6.  Peng, S., Carmola, L., Lyu, L., **Subedi, S,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "H5N1 Transmission Dynamics and Assessment of the Intervention Strategies". To be Submitted.
 
 # Conference Abstracts
 
-1.  Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "A computer vision based automatic system for egg grading and defect detection in cage-free facilities." Abstract: 2024 International Poultry Scientific Forum. Atlanta, Georgia, US. January 27-28, 2025.
+1.  **Subedi, S**, Mubassir, MHM., Rajamand, T., Bakheet, M.A., Lyu, L., Babasola, O., Bahl, J. "Investigating the Ecological and Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe." Abstract: Ecology and Evolution of Infectious Diseases, University of Notre Dame, Indiana, US. June 16-19, 2025.
 
-2.  Bist, R.B, **Subedi, S**, Yang, X., Paneru, B., Chai, L. " A Semi-Supervised Auto-Labeling Approach to Enhance Artificial Intelligence in Poultry Farming"" Abstract: 2024 International Poultry Scientific Forum. Atlanta, Georgia, US. January 27-28, 2025.
+2.  Rajamand, T., **Subedi, S**, Mubassir, MHM., Bakheet, M.A., Lyu, L., Babasola, O., Bahl, J. "Modeling the Risk of HPAI H5N1 Spread Through Cattle Networks: Implications for Cross-Species Transmission and Pandemic Prevention." Abstract: Ecology and Evolution of Infectious Diseases, University of Notre Dame, Indiana, US. June 16-19, 2025.
 
-3.  **Subedi, S**, Lyu, L., Bakheet, M.A,Mubassir, MHM., Rajamand, T., Babasola, O., Dailey, C., Veytsel, V., Stott, G., Peng, S., Bahl, J. "Phylogeographic Diffusion and Host Dynamics of HPAI H5Nx Virus Clade 2.3.4.4b in Europe" Abstract: CEIRR 3rd Annual Network Meeting, New York Academy of Medicine, New York, US. July 21-24, 2024.
+3.  Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "A computer vision based automatic system for egg grading and defect detection in cage-free facilities." Abstract: 2024 International Poultry Scientific Forum. Atlanta, Georgia, US. January 27-28, 2025.
 
-4.  **Subedi, S**, Lyu, L., Bakheet, M.A,Mubassir, MHM., Rajamand, T., Babasola, O., Dailey, C., Veytsel, V., Stott, G., Peng, S., Bahl, J. "Phylodynamics of the H5Nx Clade 2.3.4.4b Avian Influenza Outbreak in Europe" Abstract: Ecology and Evolution of Infectious Diseases, Stanford University, California, US. June 24-27, 2024.
+4.  Bist, R.B, **Subedi, S**, Yang, X., Paneru, B., Chai, L. " A Semi-Supervised Auto-Labeling Approach to Enhance Artificial Intelligence in Poultry Farming"" Abstract: 2024 International Poultry Scientific Forum. Atlanta, Georgia, US. January 27-28, 2025.
 
-5.  Bist, R.B., **Subedi, S**, Yang, X., Paneru, B., Regmi, P., and Chai, L. (2024). "Comparative Assessments of Cage-free Pullet Age, Activities, and Impacts on Dust Concentrntion Using Accelerometer-Based Activity Sensors." Abstract: ASABE 2024 Annual International Meeting. Anaheim, California, US. July 28-31, 2024.
+5.  **Subedi, S**, Lyu, L., Bakheet, M.A,Mubassir, MHM., Rajamand, T., Babasola, O., Dailey, C., Veytsel, V., Stott, G., Peng, S., Bahl, J. "Phylogeographic Diffusion and Host Dynamics of HPAI H5Nx Virus Clade 2.3.4.4b in Europe" Abstract: CEIRR 3rd Annual Network Meeting, New York Academy of Medicine, New York, US. July 21-24, 2024.
 
-6.  **Subedi, S**, Bist, R.B, Yang, X., Chai, L. "Multiple Behavior Classification of Laying Hens Using Deep Learning." Abstract: Poultry Science Association 2023 Annual Meeting. Philadelphia, Pennsylvania, US. July 10-13, 2023.
+6.  **Subedi, S**, Lyu, L., Bakheet, M.A,Mubassir, MHM., Rajamand, T., Babasola, O., Dailey, C., Veytsel, V., Stott, G., Peng, S., Bahl, J. "Phylodynamics of the H5Nx Clade 2.3.4.4b Avian Influenza Outbreak in Europe" Abstract: Ecology and Evolution of Infectious Diseases, Stanford University, California, US. June 24-27, 2024.
 
-7.  **Subedi, S**, Bist, R.B, Yang, X., Chai, L. "Floor Eggs Detection with Machine Vision in Cage-free Hen Houses." Abstract: 2nd U.S. Precision Livestock Farming Conference. Knoxville, Tennessee, US. May 21-24, 2023.
+7.  Bist, R.B., **Subedi, S**, Yang, X., Paneru, B., Regmi, P., and Chai, L. (2024). "Comparative Assessments of Cage-free Pullet Age, Activities, and Impacts on Dust Concentrntion Using Accelerometer-Based Activity Sensors." Abstract: ASABE 2024 Annual International Meeting. Anaheim, California, US. July 28-31, 2024.
 
-8.  **Subedi, S**, Bist, R.B, Yang, X., Chai, L. "Multiple Behavior Classification of Laying Hens Using Deep Learning." Abstract: International Conference on Integrative Precision Agriculture. Athens, Georgia, US. May 18-19, 2023.
+8.  **Subedi, S**, Bist, R.B, Yang, X., Chai, L. "Multiple Behavior Classification of Laying Hens Using Deep Learning." Abstract: Poultry Science Association 2023 Annual Meeting. Philadelphia, Pennsylvania, US. July 10-13, 2023.
 
-9.  **Subedi, S**, Bist, R.B, Yang, X., Chai, L. "Tracking Pecking Behaviors and Damages with Machine Vision in Cage-free Hen Houses." Abstract: Poultry Science Association 2022 Annual Meeting. San Antonio, Texas, US. July 11-14, 2022.
+9.  **Subedi, S**, Bist, R.B, Yang, X., Chai, L. "Floor Eggs Detection with Machine Vision in Cage-free Hen Houses." Abstract: 2nd U.S. Precision Livestock Farming Conference. Knoxville, Tennessee, US. May 21-24, 2023.
 
-10. **Subedi, S**, Bist, R.B, Yang, X., Chai, L. "Detecting Floor Eggs with Machine Vision Technologies." Abstract: 2023 International Poultry Scientific Forum. Atlanta, Georgia, US. January 23-26, 2023.
+10. **Subedi, S**, Bist, R.B, Yang, X., Chai, L. "Multiple Behavior Classification of Laying Hens Using Deep Learning." Abstract: International Conference on Integrative Precision Agriculture. Athens, Georgia, US. May 18-19, 2023.
 
-11. Bist, R.B, **Subedi, S**, Yang, X., Paneru, B., Chai, L. "Machine Learning Model for Detection, Segmentation, and Tracking of Individual Cage-Free Laying Hens." Abstract: 2024 International Poultry Scientific Forum. Atlanta, Georgia, US. January 28-30, 2024.
+11. **Subedi, S**, Bist, R.B, Yang, X., Chai, L. "Tracking Pecking Behaviors and Damages with Machine Vision in Cage-free Hen Houses." Abstract: Poultry Science Association 2022 Annual Meeting. San Antonio, Texas, US. July 11-14, 2022.
 
-12. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Synergistic Effect of Electrostatic Particle Ionization and Bedding Management on Particulate Matter and Ammonia Reduction in Cage-Free Hen Houses." Abstract: Poultry Science Association 2023 Annual Meeting. Philadelphia, Pennsylvania, US. July 10-13, 2023.
+12. **Subedi, S**, Bist, R.B, Yang, X., Chai, L. "Detecting Floor Eggs with Machine Vision Technologies." Abstract: 2023 International Poultry Scientific Forum. Atlanta, Georgia, US. January 23-26, 2023.
 
-13. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Detecting Cage-Free Hens Bumblefoot with Deep Learning Models." Abstract: Poultry Science Association 2023 Annual Meeting. Philadelphia, Pennsylvania, US. July 10-13, 2023.
+13. Bist, R.B, **Subedi, S**, Yang, X., Paneru, B., Chai, L. "Machine Learning Model for Detection, Segmentation, and Tracking of Individual Cage-Free Laying Hens." Abstract: 2024 International Poultry Scientific Forum. Atlanta, Georgia, US. January 28-30, 2024.
 
-14. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Effects of Artificial Dusk Lighting on Perching Behaviors of Cage-Free Laying Hens." Abstract: ASABE 2023 Annual International Meeting. Omaha, Nebraska, US. July 9-12, 2023.
+14. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Synergistic Effect of Electrostatic Particle Ionization and Bedding Management on Particulate Matter and Ammonia Reduction in Cage-Free Hen Houses." Abstract: Poultry Science Association 2023 Annual Meeting. Philadelphia, Pennsylvania, US. July 10-13, 2023.
 
-15. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Poultry Pecking Management: A Case Study." Abstract: ASABE 2023 Annual International Meeting. Omaha, Nebraska, US. July 9-12, 2023.
+15. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Detecting Cage-Free Hens Bumblefoot with Deep Learning Models." Abstract: Poultry Science Association 2023 Annual Meeting. Philadelphia, Pennsylvania, US. July 10-13, 2023.
 
-16. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Monitoring Cage-free Laying Hens on Litter Floor with Machine Vision." Abstract: 2nd U.S. Precision Livestock Farming Conference. Knoxville, Tennessee, US. May 21-24, 2023.
+16. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Effects of Artificial Dusk Lighting on Perching Behaviors of Cage-Free Laying Hens." Abstract: ASABE 2023 Annual International Meeting. Omaha, Nebraska, US. July 9-12, 2023.
 
-17. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "An Integrated Engineering Method for Mitigating Air Pollutant Emissions From Cage-Free Hen Houses." Abstract: UGA Cleantech Symposium, Athens, Georgia, US. April 19, 2023.
+17. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Poultry Pecking Management: A Case Study." Abstract: ASABE 2023 Annual International Meeting. Omaha, Nebraska, US. July 9-12, 2023.
 
-18. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Monitoring Mislaying Behaviors of Cage-Free Hens with Deep Learning." Abstract: 2023 International Poultry Scientific Forum. Atlanta, Georgia, US. January 23-26, 2023.
+18. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Monitoring Cage-free Laying Hens on Litter Floor with Machine Vision." Abstract: 2nd U.S. Precision Livestock Farming Conference. Knoxville, Tennessee, US. May 21-24, 2023.
 
-19. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Effects of Hy-line W-36 pullet Age on Air Pollutant Concentration in a Cage-Free Housing System." Abstract: 2023 International Poultry Scientific Forum. Atlanta, Georgia, US. January 23-26, 2023.
+19. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "An Integrated Engineering Method for Mitigating Air Pollutant Emissions From Cage-Free Hen Houses." Abstract: UGA Cleantech Symposium, Athens, Georgia, US. April 19, 2023.
 
-20. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Early Detection of Bumblefoot in Poultry: A Novel Approach to Improve Welfare." Abstract: International Conference on Integrative Precision Agriculture. Athens, Georgia, US. May 18-19, 2023.
+20. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Monitoring Mislaying Behaviors of Cage-Free Hens with Deep Learning." Abstract: 2023 International Poultry Scientific Forum. Atlanta, Georgia, US. January 23-26, 2023.
 
-21. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Bedding Management for Suppressing Particulate Matter in Cage-Free Layer House." Abstract: ASABE 2023 Annual International Meeting. Houston, Texas, US. July 17-20, 2022.
+21. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Effects of Hy-line W-36 pullet Age on Air Pollutant Concentration in a Cage-Free Housing System." Abstract: 2023 International Poultry Scientific Forum. Atlanta, Georgia, US. January 23-26, 2023.
 
-22. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Preventing Feather Pecking and Cannibalism for W-36 Pullets in Cage-Free Houses." Abstract: Poultry Science Association 2022 Annual Meeting. San Antonio, Texas, US. July 11-14, 2022.
+22. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Early Detection of Bumblefoot in Poultry: A Novel Approach to Improve Welfare." Abstract: International Conference on Integrative Precision Agriculture. Athens, Georgia, US. May 18-19, 2023.
 
-23. Yang, X., Bist, R.B, **Subedi, S**, Paneru, B., Chai, L. "Advanced Machine Learning Techniques for Monitoring Poultry Movement Patterns." Abstract: 2024 International Poultry Scientific Forum. Atlanta, Georgia, US. January 28-30, 2024.
+23. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Bedding Management for Suppressing Particulate Matter in Cage-Free Layer House." Abstract: ASABE 2023 Annual International Meeting. Houston, Texas, US. July 17-20, 2022.
 
-24. Yang, X., Bist, R.B, **Subedi, S**, Paneru, B., Chai, L. "Deep Learning Algorithm For Tracking Individual Chicken for Locomotion Analysis." Abstract: 2024 International Poultry Scientific Forum. Atlanta, Georgia, US. January 28-30, 2024.
+24. Bist, R.B, **Subedi, S**, Yang, X., Chai, L. "Preventing Feather Pecking and Cannibalism for W-36 Pullets in Cage-Free Houses." Abstract: Poultry Science Association 2022 Annual Meeting. San Antonio, Texas, US. July 11-14, 2022.
 
-25. Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "A Computer Vision Based Automatic System for Egg Grading and Defect Detection in Cage-Free Facilities." Abstract: Poultry Science Association 2023 Annual Meeting. Philadelphia, Pennsylvania, US. July 10-13, 2023.
+25. Yang, X., Bist, R.B, **Subedi, S**, Paneru, B., Chai, L. "Advanced Machine Learning Techniques for Monitoring Poultry Movement Patterns." Abstract: 2024 International Poultry Scientific Forum. Atlanta, Georgia, US. January 28-30, 2024.
 
-26. Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "Tracking Cage-Free Laying Hens on the Litter Floor with Deep Learning Models." Abstract: 2nd U.S. Precision Livestock Farming Conference. Knoxville, Tennessee, US. May 21-24, 2023.
+26. Yang, X., Bist, R.B, **Subedi, S**, Paneru, B., Chai, L. "Deep Learning Algorithm For Tracking Individual Chicken for Locomotion Analysis." Abstract: 2024 International Poultry Scientific Forum. Atlanta, Georgia, US. January 28-30, 2024.
 
-27. Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "A Computer Vision-Based Automatic System for Egg Grading and Defect Detection." Abstract: International Conference on Integrative Precision Agriculture. Athens, Georgia, US. May 18-19, 2023.
+27. Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "A Computer Vision Based Automatic System for Egg Grading and Defect Detection in Cage-Free Facilities." Abstract: Poultry Science Association 2023 Annual Meeting. Philadelphia, Pennsylvania, US. July 10-13, 2023.
 
-28. Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "Tracking Cage-Free Laying Hens on Litter Floor with Machine Vision." Abstract: 2023 International Poultry Scientific Forum. Atlanta, Georgia, US. January 23-26, 2023.
+28. Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "Tracking Cage-Free Laying Hens on the Litter Floor with Deep Learning Models." Abstract: 2nd U.S. Precision Livestock Farming Conference. Knoxville, Tennessee, US. May 21-24, 2023.
 
-29. Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "A Deep Learning Model to Detect Cage-Free Laying Hens on the Litter Floor." Abstract: Poultry Science Association 2022 Annual Meeting. San Antonio, Texas, US. July 11-14, 2022.
+29. Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "A Computer Vision-Based Automatic System for Egg Grading and Defect Detection." Abstract: International Conference on Integrative Precision Agriculture. Athens, Georgia, US. May 18-19, 2023.
 
-30. Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "Monitoring Litter Quality in Cage-Free Facilities with W-36 Pullets." Abstract: Poultry Science Association 2022 Annual Meeting. San Antonio, Texas, US. July 11-14, 2022.
+30. Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "Tracking Cage-Free Laying Hens on Litter Floor with Machine Vision." Abstract: 2023 International Poultry Scientific Forum. Atlanta, Georgia, US. January 23-26, 2023.
+
+31. Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "A Deep Learning Model to Detect Cage-Free Laying Hens on the Litter Floor." Abstract: Poultry Science Association 2022 Annual Meeting. San Antonio, Texas, US. July 11-14, 2022.
+
+32. Yang, X., Bist, R.B, **Subedi, S**, Chai, L. "Monitoring Litter Quality in Cage-Free Facilities with W-36 Pullets." Abstract: Poultry Science Association 2022 Annual Meeting. San Antonio, Texas, US. July 11-14, 2022.
