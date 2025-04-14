@@ -67,7 +67,7 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 
 5.  Peng, S., Carmola, L., Lyu, L., **Subedi, S,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "MHC-II-EpiPred: Sliding Window Scanning for MHC Class II Epitope Discovery via Protein Language Model". To be Submitted.
 
-6.  Peng, S., Carmola, L., Lyu, L., **Subedi, S,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "H5N1 Transmission Dynamics and Assessment of the Intervention Strategies". To be Submitted.
+6.  Babasola, O., Bakheet, M.A., **Subedi, S,** Mubassir, MHM., and Bahl, J. (2025). "H5N1 Transmission Dynamics and Assessment of the Intervention Strategies". To be Submitted.
 
 # Conference Abstracts
 
