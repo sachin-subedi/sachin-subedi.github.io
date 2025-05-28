@@ -40,7 +40,9 @@ editor: visual
 
 ## Peer Review Works for Journals
 
--   Computer and Electronics in Agriculture **(IF: 7.7)** \[3 Papers\]
+-   Computer and Electronics in Agriculture **(IF: 7.7)** \[6 Papers\]
+
+-   Nanomaterials **(IF: 4.4)** \[1 Paper\]
 
 -   Scientific Reports **(IF: 3.8)** \[1 Paper\]
 
@@ -48,13 +50,15 @@ editor: visual
 
 -   Sensors **(IF: 3.9)** \[1 Paper\]
 
--   AI **(IF: 3.1)** \[1 Paper\]
+-   AI **(IF: 3.1)** \[2 Papers\]
 
 -   Infectious Disease Modeling **(IF: 3.0)** \[1 Paper\]
 
--   Animals **(IF: 3.0)** \[4 Papers\]
+-   Animals **(IF: 3.0)** \[5 Papers\]
 
 -   AgriEngineering **(IF: 3.0)** \[1 Paper\]
+
+-   Ecological Modeling **(IF: 2.6)** \[1 Paper\]
 
 -   Applied Sciences **(IF: 2.5)** \[1 paper\]
 
@@ -62,11 +66,16 @@ editor: visual
 
 ## Workshop
 
-Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)
+NSF-funded 2025 EEID Pre-Conference Workshop on AI and Infectious Disease (2025)
+
+-   AI applications to disease ecology and evolution
+
+Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID 2024)
 
 -   Spatial Statistics in Epidemiology and Public Health
 -   Reconstructing Transmission with Genomic Data
 -   Introduction to Machine Learning for ID Modeling
+
 
 ## Skills
 
