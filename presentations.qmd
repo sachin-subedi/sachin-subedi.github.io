@@ -5,7 +5,7 @@ editor: visual
 
 # Presentations (Talks and Posters)
 
-1.  **2025 Institute of Bioinformatics (IOB) Spring Retreat, April 18, 2025:** Investigating the Evolution of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe (Poster)
+1.  **2025 Institute of Bioinformatics (IOB) Spring Retreat, University of Georgia, GA, April 18, 2025:** Investigating the Evolution of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe (Poster)
 
 2.  ![](images/IOB_Retreat-01.png)
 
