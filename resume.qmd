@@ -42,7 +42,7 @@ editor: visual
 
 -   Computer and Electronics in Agriculture **(IF: 7.7)** \[9 Papers\]
 
--   Computer and Electronics in Agriculture **(IF: 6.3)** \[2 Papers\]
+-   Smart Agricultural Technology **(IF: 6.3)** \[2 Papers\]
 
 -   Nanomaterials **(IF: 4.4)** \[1 Paper\]
 
@@ -50,17 +50,15 @@ editor: visual
 
 -   Sensors **(IF: 3.9)** \[1 Paper\]
 
--   Sensors **(IF: 3.9)** \[1 Paper\]
-
 -   AI **(IF: 3.1)** \[2 Papers\]
 
--   Infectious Disease Modeling **(IF: 3.0)** \[1 Paper\]
+-   Infectious Disease Modeling **(IF: 3.0)** \[2 Papers\]
 
 -   Animals **(IF: 3.0)** \[5 Papers\]
 
 -   AgriEngineering **(IF: 3.0)** \[1 Paper\]
 
--   Ecological Modeling **(IF: 2.6)** \[1 Paper\]
+-   Ecological Modeling **(IF: 2.6)** \[2 Papers\]
 
 -   Applied Sciences **(IF: 2.5)** \[1 paper\]
 
