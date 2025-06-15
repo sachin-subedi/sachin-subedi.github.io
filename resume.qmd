@@ -40,7 +40,9 @@ editor: visual
 
 ## Peer Review Works for Journals
 
--   Computer and Electronics in Agriculture **(IF: 7.7)** \[6 Papers\]
+-   Computer and Electronics in Agriculture **(IF: 7.7)** \[9 Papers\]
+
+-   Computer and Electronics in Agriculture **(IF: 6.3)** \[2 Papers\]
 
 -   Nanomaterials **(IF: 4.4)** \[1 Paper\]
 
@@ -62,6 +64,8 @@ editor: visual
 
 -   Applied Sciences **(IF: 2.5)** \[1 paper\]
 
+-   Cogent Food and Agriculture **(IF: 2.3)** \[1 paper\]
+
 -   Veterinary Sciences **(IF: 2.0)** \[5 Papers\]
 
 ## Workshop
@@ -75,7 +79,6 @@ Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID 2024)
 -   Spatial Statistics in Epidemiology and Public Health
 -   Reconstructing Transmission with Genomic Data
 -   Introduction to Machine Learning for ID Modeling
-
 
 ## Skills
 
