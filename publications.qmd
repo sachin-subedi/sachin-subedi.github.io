@@ -7,53 +7,55 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 
 # Published Manuscripts
 
-1.  Yang, X., **Subedi, S,** Bist, R.B., Li, G., and Chai, L. (2025). "The application of probiotics and prebiotics in poultry production and impacts on environment: A review." *Encyclopedia.* [DOI](https://doi.org/10.3390/encyclopedia5010035)
+1.  Peng, S., Carmola, L., Lyu, L., **Subedi, S,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "Evolving Fitness and Immune Escape: A Retrospective Analysis of SARS-CoV-2 Spike Protein (2020-2024) Using Protein Language Model". *Frontiers in Immunology.* [DOI](https://doi.org/10.3389/fimmu.2025.1576414)
 
-2.  **Subedi, S,** Bist, R.B., Yang, X., Li, G., and Chai, L. (2025). "Advanced Deep Learning Methods for Multiple Behavior Classification of Cage-Free Laying Hens." *AgriEngineering*. [DOI](https://doi.org/10.3390/agriengineering7020024)
+2.  Yang, X., **Subedi, S,** Bist, R.B., Li, G., and Chai, L. (2025). "The application of probiotics and prebiotics in poultry production and impacts on environment: A review." *Encyclopedia.* [DOI](https://doi.org/10.3390/encyclopedia5010035)
 
-3.  Yang, X., Bist, R.B., **Subedi, S**, Wu, Z., Liu, T., Paneru, B., and Chai, L. (2024). "A Deep Learning Framework for Monitoring Wild Birds on Poultry Farms to Prevent Avian Influenza." *AgriEngineering*. [DOI](https://doi.org/10.3390/agriengineering6040211)
+3.  **Subedi, S,** Bist, R.B., Yang, X., Li, G., and Chai, L. (2025). "Advanced Deep Learning Methods for Multiple Behavior Classification of Cage-Free Laying Hens." *AgriEngineering*. [DOI](https://doi.org/10.3390/agriengineering7020024)
 
-4.  Bist, R.B., **Subedi, S**, Yang, X., Bist, K., Paneru, B., Li, G., and Chai, L. (2024). "An Automatic Method for Scoring Poultry Footpad Dermatitis with Deep Learning and Thermal Imaging." *Computers and Electronics in Agriculture*. [DOI](https://doi.org/10.1016/j.compag.2024.109481)
+4.  Yang, X., Bist, R.B., **Subedi, S**, Wu, Z., Liu, T., Paneru, B., and Chai, L. (2024). "A Deep Learning Framework for Monitoring Wild Birds on Poultry Farms to Prevent Avian Influenza." *AgriEngineering*. [DOI](https://doi.org/10.3390/agriengineering6040211)
 
-5.  Bist, R.B., **Subedi, S**, Yang, X., Paneru, B., and Chai, L. (2024). "An Integrated Engineering Method for Improving Air Quality of Cage-Free Hen Housing." *AgriEngineering*. [DOI](https://doi.org/10.3390/agriengineering6030162)
+5.  Bist, R.B., **Subedi, S**, Yang, X., Bist, K., Paneru, B., Li, G., and Chai, L. (2024). "An Automatic Method for Scoring Poultry Footpad Dermatitis with Deep Learning and Thermal Imaging." *Computers and Electronics in Agriculture*. [DOI](https://doi.org/10.1016/j.compag.2024.109481)
 
-6.  Yang, X., Dai, H., Wu, Z., Bist, R.B., **Subedi, S**, Sun, J., Lu, G., Li, C., Liu, T., and Chai, L. (2024). "An Innovative Segment Anything Model for Precision Poultry Monitoring." *Computer and Electronics in Agriculture*. [DOI](https://doi.org/10.1016/j.compag.2024.109045)
+6.  Bist, R.B., **Subedi, S**, Yang, X., Paneru, B., and Chai, L. (2024). "An Integrated Engineering Method for Improving Air Quality of Cage-Free Hen Housing." *AgriEngineering*. [DOI](https://doi.org/10.3390/agriengineering6030162)
 
-7.  Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2024). "Automatic Detection of Bumblefoot in Cage-Free Hens Using Computer Vision Technologies." *Poultry Science*. [DOI](https://doi.org/10.1016/j.psj.2024.103780)
+7.  Yang, X., Dai, H., Wu, Z., Bist, R.B., **Subedi, S**, Sun, J., Lu, G., Li, C., Liu, T., and Chai, L. (2024). "An Innovative Segment Anything Model for Precision Poultry Monitoring." *Computer and Electronics in Agriculture*. [DOI](https://doi.org/10.1016/j.compag.2024.109045)
 
-8.  Bist, R.B., **Subedi, S**, Yang, X., Paneru, B., and Chai, L. (2024). "Enhancing Dust Control for Cage-Free Hens with Electrostatic Particle Charging Systems at Varying Installation Heights and Operation Durations." *Poultry Science*. [DOI](https://doi.org/10.3390/agriengineering6020101)
+8.  Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2024). "Automatic Detection of Bumblefoot in Cage-Free Hens Using Computer Vision Technologies." *Poultry Science*. [DOI](https://doi.org/10.1016/j.psj.2024.103780)
 
-9.  Bist, R.B., **Subedi, S**, Yang, X., Ritz, C.W., Kim, W.K, and Chai, L. (2024). "Electrostatic Particle Ionization for Suppressing Air Pollutants in Cage-Free Layer Facilities: Dust suppressing for cage-free hens." *Poultry Science*. [DOI](https://doi.org/10.1016/j.psj.2024.103494)
+9.  Bist, R.B., **Subedi, S**, Yang, X., Paneru, B., and Chai, L. (2024). "Enhancing Dust Control for Cage-Free Hens with Electrostatic Particle Charging Systems at Varying Installation Heights and Operation Durations." *Poultry Science*. [DOI](https://doi.org/10.3390/agriengineering6020101)
 
-10. **Subedi, S**, Bist, R.B., Yang, X., and Chai, L. (2023). "Tracking Floor Eggs with Machine Vision in Cage-Free Hen Houses." *Poultry Science 102*(6), 102637. [DOI](https://doi.org/10.1016/j.psj.2023.102637)
+10. Bist, R.B., **Subedi, S**, Yang, X., Ritz, C.W., Kim, W.K, and Chai, L. (2024). "Electrostatic Particle Ionization for Suppressing Air Pollutants in Cage-Free Layer Facilities: Dust suppressing for cage-free hens." *Poultry Science*. [DOI](https://doi.org/10.1016/j.psj.2024.103494)
 
-11. Yang, X., Bist, R.B., **Subedi, S**, and Chai, L. (2023). "A Deep Learning Method for Monitoring Spatial Distribution of Cage-Free hens." *Artificial Intelligence in Agriculture*. [DOI](https://doi.org/10.1016/j.aiia.2023.03.003)
+11. **Subedi, S**, Bist, R.B., Yang, X., and Chai, L. (2023). "Tracking Floor Eggs with Machine Vision in Cage-Free Hen Houses." *Poultry Science 102*(6), 102637. [DOI](https://doi.org/10.1016/j.psj.2023.102637)
 
-12. **Subedi, S**, Bist, R.B., Yang, X., and Chai, L. (2023). "Tracking Pecking Behaviors and Damages of Cage-Free Laying Hens with Machine Vision Technologies." *Computer and Electronics in Agriculture*. [DOI](https://doi.org/10.1016/j.compag.2022.107545)
+12. Yang, X., Bist, R.B., **Subedi, S**, and Chai, L. (2023). "A Deep Learning Method for Monitoring Spatial Distribution of Cage-Free hens." *Artificial Intelligence in Agriculture*. [DOI](https://doi.org/10.1016/j.aiia.2023.03.003)
 
-13. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "Mislaying Behavior Detection in Cage-Free Hens with Deep Learning Technologies." *Poultry Science*. [DOI](https://doi.org/10.1016/j.psj.2023.102729)
+13. **Subedi, S**, Bist, R.B., Yang, X., and Chai, L. (2023). "Tracking Pecking Behaviors and Damages of Cage-Free Laying Hens with Machine Vision Technologies." *Computer and Electronics in Agriculture*. [DOI](https://doi.org/10.1016/j.compag.2022.107545)
 
-14. Bist, R.B., **Subedi, S**, Chai, L., Regmi, P., Ritz, C.W., Kim, W.K, and Yang, X. (2023). "Effects of Perching on Poultry Welfare and Production: A Review." *Poultry* 2(2), 134-137. [DOI](https://doi.org/10.3390/poultry2020013)
+14. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "Mislaying Behavior Detection in Cage-Free Hens with Deep Learning Technologies." *Poultry Science*. [DOI](https://doi.org/10.1016/j.psj.2023.102729)
 
-15. Yang, X., Bist, R.B., **Subedi, S** and Chai, L. (2023). "An Automatic Classifier for Monitoring Applied Behaviors of Cage-Free Laying Hens with Deep Learning." *Engineering Applications of AI*. [DOI](https://doi.org/10.1016/j.engappai.2023.03.003)
+15. Bist, R.B., **Subedi, S**, Chai, L., Regmi, P., Ritz, C.W., Kim, W.K, and Yang, X. (2023). "Effects of Perching on Poultry Welfare and Production: A Review." *Poultry* 2(2), 134-137. [DOI](https://doi.org/10.3390/poultry2020013)
 
-16. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "Effective Strategies for Mitigating Feather Pecking and Cannibalism in Cage-Free W-36 Pullets." *Poultry*. [DOI](https://doi.org/10.3390/poultry2020021)
+16. Yang, X., Bist, R.B., **Subedi, S** and Chai, L. (2023). "An Automatic Classifier for Monitoring Applied Behaviors of Cage-Free Laying Hens with Deep Learning." *Engineering Applications of AI*. [DOI](https://doi.org/10.1016/j.engappai.2023.03.003)
 
-17. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "Ammonia Emissions, Impacts, and Mitigation Strategies for Poultry Production: A critical review." *Journal of Environmental Management*. [DOI](https://doi.org/10.1016/j.jenvman.2022.116919)
+17. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "Effective Strategies for Mitigating Feather Pecking and Cannibalism in Cage-Free W-36 Pullets." *Poultry*. [DOI](https://doi.org/10.3390/poultry2020021)
 
-18. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "A Novel YOLOv6 Object Detector for Monitoring Piling Behavior of Cage-Free Laying Hens." *AgriEngineering*. [DOI](https://doi.org/10.1016/j.engappai.2023.106377)
+18. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "Ammonia Emissions, Impacts, and Mitigation Strategies for Poultry Production: A critical review." *Journal of Environmental Management*. [DOI](https://doi.org/10.1016/j.jenvman.2022.116919)
 
-19. Yang, X., Bist, R.B., **Subedi, S**, Wu, Z, and Chai, L. (2022). "A Deep Learning Model for Detecting Cage-Free Hens on the Litter Floor." *Animals* 12(15), 1983. [DOI](https://doi.org/10.3390/ani12151983)
+19. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "A Novel YOLOv6 Object Detector for Monitoring Piling Behavior of Cage-Free Laying Hens." *AgriEngineering*. [DOI](https://doi.org/10.1016/j.engappai.2023.106377)
 
-20. **Subedi, S**, Koirala, S., and Chai, L. (2021). "COVID-19 in Farm Animals: Host Susceptibility and Prevention Strategies." *Animals* 11(3), 640. [DOI](https://doi.org/10.3390/ani11030640)
+20. Yang, X., Bist, R.B., **Subedi, S**, Wu, Z, and Chai, L. (2022). "A Deep Learning Model for Detecting Cage-Free Hens on the Litter Floor." *Animals* 12(15), 1983. [DOI](https://doi.org/10.3390/ani12151983)
 
-21. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "Illuminating Solutions for Reducing Mislaid Eggs of Cage-Free Layers." *AgriEngineering*. [DOI](https://doi.org/10.3390/agriengineering5040133)
+21. **Subedi, S**, Koirala, S., and Chai, L. (2021). "COVID-19 in Farm Animals: Host Susceptibility and Prevention Strategies." *Animals* 11(3), 640. [DOI](https://doi.org/10.3390/ani11030640)
 
-22. Yang, X., Bist, R.B., **Subedi, S** and Chai, L. (2023). "A Computer Vision-Based Automatic System for Egg Grading and Defect Detection." *Animals*. [DOI](https://doi.org/10.3390/ani13142354)
+22. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "Illuminating Solutions for Reducing Mislaid Eggs of Cage-Free Layers." *AgriEngineering*. [DOI](https://doi.org/10.3390/agriengineering5040133)
 
-23. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "Automatic Detection of Cage-Free Dead Hens with Deep Learning Methods." *AgriEngineering*. [DOI](https://doi.org/10.3390/agriengineering5020064)
+23. Yang, X., Bist, R.B., **Subedi, S** and Chai, L. (2023). "A Computer Vision-Based Automatic System for Egg Grading and Defect Detection." *Animals*. [DOI](https://doi.org/10.3390/ani13142354)
 
-24. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "Temporal Variations of Air Quality in Cage-Free Experimental Pullet Houses." *Poultry*. [DOI](https://doi.org/10.3390/poultry2020024)
+24. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "Automatic Detection of Cage-Free Dead Hens with Deep Learning Methods." *AgriEngineering*. [DOI](https://doi.org/10.3390/agriengineering5020064)
+
+25. Bist, R.B., **Subedi, S**, Yang, X., and Chai, L. (2023). "Temporal Variations of Air Quality in Cage-Free Experimental Pullet Houses." *Poultry*. [DOI](https://doi.org/10.3390/poultry2020024)
 
 # Manuscript Submitted/In Preparation to Journals
 
@@ -63,11 +65,9 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 
 3.  **Subedi, S**, Mubassir, MHM., Rajamand, T., Lyu, L., Bakheet, M.A, Bahl, J. (2025). "Investigating the Ecological and Evolutionary Drivers of H5Nx HPAI Spread Across Species and Geographic Regions in Europe". To be Submitted.
 
-4.  Peng, S., Carmola, L., Lyu, L., **Subedi, S,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "Evolving Fitness and Immune Escape: A Retrospective Analysis of SARS-CoV-2 Spike Protein (2020-2024) Using Protein Language Model". *Frontiers in Immunology.*.
+4.  Peng, S., Carmola, L., Lyu, L., **Subedi, S,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "MHC-II-EpiPred: Sliding Window Scanning for MHC Class II Epitope Discovery via Protein Language Model". To be Submitted.
 
-5.  Peng, S., Carmola, L., Lyu, L., **Subedi, S,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "MHC-II-EpiPred: Sliding Window Scanning for MHC Class II Epitope Discovery via Protein Language Model". To be Submitted.
-
-6.  Babasola, O., Bakheet, M.A., **Subedi, S,** Mubassir, MHM., and Bahl, J. (2025). "H5N1 Transmission Dynamics and Assessment of the Intervention Strategies". To be Submitted.
+5.  Babasola, O., Bakheet, M.A., **Subedi, S,** Mubassir, MHM., and Bahl, J. (2025). "H5N1 Transmission Dynamics and Assessment of the Intervention Strategies". To be Submitted.
 
 # Conference Abstracts
 

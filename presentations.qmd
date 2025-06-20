@@ -5,9 +5,13 @@ editor: visual
 
 # Presentations (Talks and Posters)
 
-1.  **2025 Institute of Bioinformatics (IOB) Spring Retreat, University of Georgia, GA, April 18, 2025:** Investigating the Evolution of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe (Poster)
+1.  **2025 Ecology and Evolution of Infectious Diseases, University of Notre Dame, IN, July 18, 2025:** Investigating the Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe (Poster)
 
-2.  ![](images/IOB_Retreat-01.png)
+    ![](/images/EEID2025.jpg)
+
+2.  **2025 Institute of Bioinformatics (IOB) Spring Retreat, University of Georgia, GA, April 18, 2025:** Investigating the Evolution of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe (Poster)
+
+![](images/IOB2025.jpg){width="1152"}
 
 3.  **2025 Workshop on PANRISK: EU-Horizon Project, University of Copenhagen, Denmark, March 3, 2025:** 2.3.4.4b HPAI H5Nx in Europe: Phylogeography and Transmission Dynamics (Oral)
 
@@ -29,27 +33,27 @@ editor: visual
 
 ![](/images/17.jpg)
 
-2.  **2023 2nd U.S. Precision Livestock Farming Conference, Knoxville, TN, May 23, 2023:** *Tracking Floor Eggs with Machine Vision in Cage-Free Hen Houses* (Talk)
+8.  **2023 2nd U.S. Precision Livestock Farming Conference, Knoxville, TN, May 23, 2023:** *Tracking Floor Eggs with Machine Vision in Cage-Free Hen Houses* (Talk)
 
 ![](/images/15.jpg)
 
-3.  **2023 IPA International Conference, Athens, GA, May 19, 2023:** *Multiple Behavior Classification of Cage-Free Laying Hens Using Deep Learning* (Poster)
+9.  **2023 IPA International Conference, Athens, GA, May 19, 2023:** *Multiple Behavior Classification of Cage-Free Laying Hens Using Deep Learning* (Poster)
 
 ![](/images/14.jpg)
 
-4.  **2023 International Poultry Scientific Forum, Atlanta, GA, January 23, 2023:** *Detecting Floor Eggs with Machine Vision Technologies* (Poster)
+10. **2023 International Poultry Scientific Forum, Atlanta, GA, January 23, 2023:** *Detecting Floor Eggs with Machine Vision Technologies* (Poster)
 
 ![](/images/16.jpg)
 
-5.  **2022 PSA Annual Meeting, San Antonio, TX, July 11, 2022:** *Tracking Pecking Behaviors and Damages with Machine Vision in Cage-free Hen Houses* (Talk)
+11. **2022 PSA Annual Meeting, San Antonio, TX, July 11, 2022:** *Tracking Pecking Behaviors and Damages with Machine Vision in Cage-free Hen Houses* (Talk)
 
 ![](/images/13.jpg)
 
-6.  **2022 Graduate Research Forum UGA Poultry Science, Athens, GA, May 4, 2022:** *Tracking Pecking Behaviors and Damages with Machine Vision in Cage-free Hen Houses* (Poster)
+12. **2022 Graduate Research Forum UGA Poultry Science, Athens, GA, May 4, 2022:** *Tracking Pecking Behaviors and Damages with Machine Vision in Cage-free Hen Houses* (Poster)
 
 ![](images/122-01.jpg)
 
-7.  **2022 CleanTech Symposium Delta Innovation Hub, Athens, GA, April 20, 2022:** *Data Science and Sustainable Poultry Farming* (Poster)
+13. **2022 CleanTech Symposium Delta Innovation Hub, Athens, GA, April 20, 2022:** *Data Science and Sustainable Poultry Farming* (Poster)
 
 ![](/images/11.jpg)
 
