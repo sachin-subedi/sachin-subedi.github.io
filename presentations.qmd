@@ -13,7 +13,7 @@ editor: visual
 
 ![](images/IOB2025.jpg){width="1152"}
 
-3.  **2025 Workshop on PANRISK: EU-Horizon Project, University of Copenhagen, Denmark, March 3, 2025:** 2.3.4.4b HPAI H5Nx in Europe: Phylogeography and Transmission Dynamics (Oral)
+3.  **2025 Workshop on PANRISK: EU-Horizon Project, University of Copenhagen, Denmark, March 3, 2025:** 2.3.4.4b HPAI H5Nx in Europe: Phylogeography and Transmission Dynamics (Talk)
 
     ![](images/CPH.jpg){width="1152"}
 
