@@ -5,7 +5,7 @@ editor: visual
 
 # Presentations (Talks and Posters)
 
-1.  **2025 Ecology and Evolution of Infectious Diseases, University of Notre Dame, IN, July 18, 2025:** Investigating the Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe (Poster)
+1.  **2025 Ecology and Evolution of Infectious Diseases, University of Notre Dame, IN, June 18, 2025:** Investigating the Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe (Poster)
 
     ![](/images/EEID2025.jpg)
 
