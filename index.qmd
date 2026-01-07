@@ -38,5 +38,6 @@ I am a  Ph.D. Candidate in Bioinformatics at the University of Georgia, focusing
 - **Computational Biology of RNA viruses**
 - **Infectious Diseases Modeling**
 - **Bayesian Inference of Virus Phylogenies**
+- **Deep Learning in Phylogenetics**
 
 

@@ -40,31 +40,35 @@ editor: visual
 
 ## Peer Review Works for Journals
 
--   Computer and Electronics in Agriculture **(IF: 7.7)** \[9 Papers\]
+-   Computer and Electronics in Agriculture **(IF: 8.9)** \[14 Papers\]
 
--   Smart Agricultural Technology **(IF: 6.3)** \[2 Papers\]
+-   Smart Agricultural Technology **(IF: 5.7)** \[4 Papers\]
 
--   Nanomaterials **(IF: 4.4)** \[1 Paper\]
+-   AI **(IF: 5.0)** \[2 Papers\]
 
--   Scientific Reports **(IF: 3.8)** \[1 Paper\]
+-   Antibiotics **(IF: 4.6)** \[1 Paper\]
 
--   Sensors **(IF: 3.9)** \[1 Paper\]
+-   Nanomaterials **(IF: 4.3)** \[1 Paper\]
 
--   AI **(IF: 3.1)** \[2 Papers\]
+-   Scientific Reports **(IF: 3.9)** \[1 Paper\]
 
--   Infectious Disease Modeling **(IF: 3.0)** \[2 Papers\]
+-   Sensors **(IF: 3.5)** \[1 Paper\]
 
--   Animals **(IF: 3.0)** \[5 Papers\]
+-   Vaccines **(IF: 3.4)** \[2 Papers\]
+
+-   Ecological Modeling **(IF: 3.2)** \[3 Papers\]
 
 -   AgriEngineering **(IF: 3.0)** \[1 Paper\]
 
--   Ecological Modeling **(IF: 2.6)** \[2 Papers\]
+-   Infectious Disease Modeling **(IF: 2.5)** \[2 Papers\]
+
+-   Animals **(IF: 2.7)** \[5 Papers\]
 
 -   Applied Sciences **(IF: 2.5)** \[1 paper\]
 
 -   Cogent Food and Agriculture **(IF: 2.3)** \[1 paper\]
 
--   Veterinary Sciences **(IF: 2.0)** \[5 Papers\]
+-   Veterinary Sciences **(IF: 2.3)** \[5 Papers\]
 
 ## Workshop
 
