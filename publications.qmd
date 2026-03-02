@@ -69,7 +69,7 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 
 3.  Babasola, O., Bakheet, M.A., Naesborg-Nielson, C.,**Subedi, S.,** Mubassir, MHM., and Bahl, J. (2026). "A Phylogeny-Informed Mathematical Modeling of H5N1 Transmission Dynamics and Effectiveness of Control Measures". Submitted to *One Health*.
 
-4.  Babasola, O., Bakheet, M.A., Naesborg-Nielson, C.,**Subedi, S.,** Mubassir, MHM., and Bahl, J. (2026). "A Time-Delayed Epidemic Model for Control of Highly Pathogenic Avian Influenza (HPAI H5Nx) with Vaccination, Compliance, and Non-Pharmaceutical Interventions". Submitted to Frontiers in Public Health.
+4.  Babasola, O., Bakheet, M.A., Naesborg-Nielson, C.,**Subedi, S.,** Mubassir, MHM., and Bahl, J. (2026). "A Time-Delayed Epidemic Model for Control of Highly Pathogenic Avian Influenza (HPAI H5Nx) with Vaccination, Compliance, and Non-Pharmaceutical Interventions". Submitted to *Frontiers in Public Health*.
 
 5.  Mubassir, MHM., **Subedi, S.**, Rajamand, T., Bakheet, M.A, Peng, S., Kandel, R., Stott, G., Boons, G.J., Tompkins, M., Woods, R., Bahl, J. (2026). "Evolutionary Trajectory of H5 Hemagglutinin Phenotypes Across U.S. clade 2.3.4.4b". To be Submitted.
 
