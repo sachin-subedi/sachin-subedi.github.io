@@ -75,9 +75,9 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 
 6.  Peng, S., Carmola, L., Lyu, L., **Subedi, S.,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "MHC-II-EpiPred: Sliding Window Scanning for MHC Class II Epitope Discovery via Protein Language Model". To be Submitted.
 
-7.  **Subedi, S.**, Mubassir, MHM., Rajamand, T., Bakheet, M.A, Carmola, L., Babasola, O., Peng, S., Bahl, J. (2026). "PhyloSpillover- A Simulation-Based Framework for Pre-Emergence Zoonotic Spillover Risk in Avian Influenza H5N1". To be Submitted.
+7.  **Subedi, S.**, Mubassir, MHM., Rajamand, T., Bakheet, M.A, Carmola, L., Babasola, O., Peng, S., Bahl, J. (2026). "PhyloSpillover: A Graph-Based, Simulation-Driven Framework for Pre-Emergence H5N1 Spillover Risk". To be Submitted.
 
-8.  **Subedi, S.**, Mubassir, MHM., Rajamand, T., Bakheet, M.A, Carmola, L., Babasola, O., Peng, S., Bahl, J. (2026). "Mapping Avian Influenza H5N1 Reassortment Across Europe with Epidemiologically-Informed Phylodynamic Networks". To be Submitted.
+8.  **Subedi, S.**, Mubassir, MHM., Rajamand, T., Bakheet, M.A, Carmola, L., Babasola, O., Peng, S., Bahl, J. (2026). "A Graph Neural Network Framework for Epidemiologically-Informed Phylodynamics of Avian Influenza H5N1 Reassortment in Europe". To be Submitted.
 
 # Conference Abstracts
 
