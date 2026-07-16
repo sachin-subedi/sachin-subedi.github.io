@@ -41,7 +41,7 @@ editor: visual
 
     ![](/images/SS_EEID.jpg)
 
-10. **2023 PSA Annual Meeting, San Antonio, TX, July 12, 2023:** *Multiple Behavior Classification of Cage-Free Laying Hens Using Deep Learning* (Talk)
+10. **2023 PSA Annual Meeting, Philadelphia, PA, July 12, 2023:** *Multiple Behavior Classification of Cage-Free Laying Hens Using Deep Learning* (Talk)
 
 ![](/images/17.jpg)
 
