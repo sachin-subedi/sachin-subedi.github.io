@@ -5,11 +5,15 @@ editor: visual
 
 # PhD Projects
 
-## 1. Phylodynamics of the H5Nx Clade 2.3.4.4b Avian Influenza Outbreak in Europe
+## 1. **Ecological and Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread in Europe**
 
-![](images/PHD-02.png)
+![](images/ComBio1-01.png)
 
-The HPAI H5Nx virus, belonging to the clade 2.3.4.4b of the Gs/GD lineage, has presented significant risks to poultry enterprises and the broader community across various countries since its initial emergence. These viruses continue to evolve globally, and the migration of birds facilitates the spread of new strains, which may carry mutations that allow for better adaptation to mammals. We aim to study phylogeographic diffusion patterns of HPAI H5Nx virus 2.3.4.4b clade and perform discrete phylogeographic analysis to identify source-sink dynamics and virus diffusion in Europe.
+![![](images/ComBio3-01.png)](images/ComBio2-01.png)
+
+![](images/ComBio4-01.png)
+
+Highly pathogenic avian influenza (HPAI) H5Nx clade 2.3.4.4b has been circulating in Europe since 2016, posing a threat to poultry, wildlife, and public health. However, the determinants of viral spillover, spread, and annual emergence remain poorly understood. Here, we integrated genomic, ecological, and epidemiological data from 2016 to 2025 within a comparative phylogeographic framework to quantify viral spread among regions and habitats. We analyzed 7,031 European H5Nx HA sequences, integrating habitat trait data from AVONET. Geographic strata were defined by hierarchical clustering cross-classified with European Environment Agency biogeographic regions, yielding ten ecologically and geographically grounded regional strata. Three subsampling strategies yielded nine datasets. We found that the Atlantic region served as a persistent reservoir for the long-term circulation of H5Nx viruses. The Western Continental region was a key secondary hub that structured cross-regional transmission. Wetlands formed the backbone of transmission, repeatedly seeding farms, grasslands, and coastal areas. Anatidae migration was the most robust predictor of inter-regional transmission, with live-poultry trade contributing to a secondary, sampling-dependent signal. Together, these findings demonstrate that regional transmission hubs and persistent wetland reservoirs shape European H5Nx dynamics. These dynamics highlight waterfowl migratory connectivity and trade corridors as priorities for surveillance and control.
 
 # MS Projects
 

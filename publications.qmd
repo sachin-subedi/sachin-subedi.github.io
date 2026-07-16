@@ -63,7 +63,7 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 
 # Manuscript Submitted/In Preparation to Journals
 
-1.  **Subedi, S.**, Mubassir, MHM., Rajamand, T., Bakheet, M.A, Lyu, L., Carmola, L., Babasola, O., Peng, S., Liu, Y., Kirkeby, C.T., Bahl, J. (2026). "Investigating the Ecological and Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread in Europe". Submitted to *Communication Biology*.
+1.  **Subedi, S.**, Mubassir, MHM., Rajamand, T., Bakheet, M.A, Lyu, L., Carmola, L., Babasola, O., Peng, S., Liu, Y., Kirkeby, C.T., Bahl, J. (2026). "Ecological and Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread in Europe". Submitted to *Communication Biology*.
 
 2.  Bakheet, M.A., Babasola, O., Naesborg-Nielson, C., **Subedi, S.,** Mubassir, MHM., Peng, S., Rajamand, T., Bahl, J. (2026). "Dynamic Risk Maps Predict Highly Pathogenic Avian Influenza Hotspots Across North America". Submitted to *Nature* *Communications*.
 
@@ -74,6 +74,10 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 5.  Mubassir, MHM., **Subedi, S.**, Rajamand, T., Bakheet, M.A, Peng, S., Kandel, R., Stott, G., Boons, G.J., Tompkins, M., Woods, R., Bahl, J. (2026). "Evolutionary Trajectory of H5 Hemagglutinin Phenotypes Across U.S. clade 2.3.4.4b". To be Submitted.
 
 6.  Peng, S., Carmola, L., Lyu, L., **Subedi, S.,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "MHC-II-EpiPred: Sliding Window Scanning for MHC Class II Epitope Discovery via Protein Language Model". To be Submitted.
+
+7.  **Subedi, S.**, Mubassir, MHM., Rajamand, T., Bakheet, M.A, Carmola, L., Babasola, O., Peng, S., Bahl, J. (2026). "PhyloSpillover- A Simulation-Based Framework for Pre-Emergence Zoonotic Spillover Risk in Avian Influenza H5N1". To be Submitted.
+
+8.  **Subedi, S.**, Mubassir, MHM., Rajamand, T., Bakheet, M.A, Carmola, L., Babasola, O., Peng, S., Bahl, J. (2026). "Mapping Avian Influenza H5N1 Reassortment Across Europe with Epidemiologically-Informed Phylodynamic Networks". To be Submitted.
 
 # Conference Abstracts
 
