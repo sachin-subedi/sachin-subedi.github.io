@@ -5,7 +5,15 @@ editor: visual
 
 # PhD Projects
 
-## 1. **Ecological and Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread in Europe**
+## 1. PhyloSpillover: Graph Neural Network-Based Prediction of Pre-Emergence Zoonotic Spillover Risk from Avian Influenza H5N1 Using Multi-Host Phylodynamic Simulations
+
+![](images/r0_distributions-01.png)
+
+![**![](images/shapley_anatidae_migration_driven-01.png)**](images/baseline_comparison-01.png)
+
+The emergence of highly pathogenic avian influenza (HPAI) H5N1 in mammals, including recent incursions into North American dairy cattle, has heightened pandemic concerns. Traditional surveillance detects human-to-human transmission only after establishment. Predicting phylodynamic signatures that precede sustained transmission could enable earlier warning. We developed PhyloSpillover-Sim, integrating mechanistic multi-host birth-death models with graph neural networks (GNNs). We simulated 8,553 phylogenetic trees across 12 epidemiological scenarios grounded in European H5N1 clade 2.3.4.4b surveillance. Trees were encoded as graphs with 37-dimensional node features spanning host identity, within-host R0, 22 genomic adaptation markers (including PB2-E627K and HA receptor-binding mutations), and spatial risk. An Epidemiologically-Informed Neural Network with mechanistic constraints and Model-Agnostic Meta-Learning achieved R² = 0.869, RMSE = 0.033, and Spearman ρ = 0.835 (p \< 10⁻¹⁰) on held-out data (n = 2,113), outperforming mean predictors (R² = -0.020) and approaching Random Forest (R² = 0.946). Removing genomic features reduced R² by 7%, and Shapley analysis identified poultry as the dominant risk contributor in all scenarios. The near-threshold scenario produced 16-fold more human spillover events than baseline, while meta-learning enabled adaptation from 5 examples. Phylodynamic tree structure encodes predictive information for pre-emergence spillover risk, offering interpretable early warning for pandemic preparedness.
+
+## 2. **Ecological and Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread in Europe**
 
 ![](images/ComBio1-01.png)
 

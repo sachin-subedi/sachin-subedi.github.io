@@ -69,15 +69,17 @@ You can also find my articles [Google Scholar Publications](https://scholar.goog
 
 1.  **Subedi, S.**, Mubassir, MHM., Rajamand, T., Bakheet, M.A, Lyu, L., Carmola, L., Babasola, O., Peng, S., Liu, Y., Kirkeby, C.T., Bahl, J. (2026). "Ecological and Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread in Europe". Submitted to *Communication Biology*.
 
-2.  Bakheet, M.A., Babasola, O., Naesborg-Nielson, C., **Subedi, S.,** Mubassir, MHM., Peng, S., Rajamand, T., Bahl, J. (2026). "Dynamic Risk Maps Predict Highly Pathogenic Avian Influenza Hotspots Across North America". Submitted to *Nature* *Communications*.
+2.  Bakheet, M.A., Babasola, O., Naesborg-Nielson, C., **Subedi, S.,** Mubassir, MHM., Peng, S., Rajamand, T., Bahl, J. (2026). "Dynamic Risk Maps Predict Highly Pathogenic Avian Influenza Hotspots Across North America". Submitted to *PNAS*.
 
-3.  Mubassir, MHM., **Subedi, S.**, Rajamand, T., Bakheet, M.A, Peng, S., Kandel, R., Stott, G., Boons, G.J., Tompkins, M., Woods, R., Bahl, J. (2026). "Evolutionary Trajectory of H5 Hemagglutinin Phenotypes Across U.S. clade 2.3.4.4b". To be Submitted.
+3.  Mubassir, MHM., **Subedi, S.**, Rajamand, T., Bakheet, M.A, Carmola, L.R., Peng, S., Kandel, R., Stott, G., Boons, G.J., Tompkins, M., Woods, R., Bahl, J. (2026). "Standing HA phenotypic breadth shapes H5N1 cross-host potential". Submitted to *Nature*.
 
 4.  Peng, S., Carmola, L., Lyu, L., **Subedi, S.,** Mubassir, MHM., Bakheet, M.A, and Bahl, J. (2025). "MHC-II-EpiPred: Sliding Window Scanning for MHC Class II Epitope Discovery via Protein Language Model". To be Submitted.
 
-5.  **Subedi, S.**, Mubassir, MHM., Rajamand, T., Bakheet, M.A, Carmola, L., Babasola, O., Peng, S., Bahl, J. (2026). "PhyloSpillover: A Graph-Based, Simulation-Driven Framework for Pre-Emergence H5N1 Spillover Risk". To be Submitted.
+5.  **Subedi, S.**, Mubassir, MHM., Rajamand, T., Bakheet, M.A, Carmola, L.R., Babasola, O., Peng, S., Bahl, J. (2026). "PhyloSpillover: Graph Neural Network-Based Prediction of Pre-Emergence Zoonotic Spillover Risk from Avian Influenza H5N1 Using Multi-Host Phylodynamic Simulations". To be Submitted.
 
-6.  **Subedi, S.**, Mubassir, MHM., Rajamand, T., Bakheet, M.A, Carmola, L., Babasola, O., Peng, S., Bahl, J. (2026). "A Graph Neural Network Framework for Epidemiologically-Informed Phylodynamics of Avian Influenza H5N1 Reassortment in Europe". To be Submitted.
+6.  **Subedi, S.**, Mubassir, MHM., Rajamand, T., Bakheet, M.A, Carmola, L.R., Babasola, O., Peng, S., Bahl, J. (2026). "A Graph Neural Network Framework for Epidemiologically-Informed Phylodynamics of Avian Influenza H5N1 Reassortment in Europe". To be Submitted.
+
+7.  Mubassir, MHM., **Subedi, S.**, Rajamand, T., Bakheet, M.A, Carmola, L.R., Peng, S., Babasola, O., Tompkins, M., Boons, G.J., Bahl, J. (2026). "Phenotypic diversity as an early signal of zoonotic spillover risk". To be Submitted.
 
 # Conference Abstracts
 
