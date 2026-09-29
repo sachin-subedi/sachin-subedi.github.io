@@ -5,23 +5,27 @@ editor: visual
 
 # Presentations (Talks and Posters)
 
-1.  **2026 Ecology and Evolution of Infectious Diseases, Virginia Tech, VA, June 4, 2026:** Inferring Anatidae Connectivity from Occurrence Data Using Seasonal Migration Networks to Inform 2.3.4.4b H5Nx Spread. (Poster)
+1.  **2026 IOB Fall Symposium- Unifying Viral Eco-Evolutionary Dynamics Across Biological Scales, University of Georgia, GA, September 28, 2026:** Ecological and Evolutionary Drivers of 2.3.4.4b H5Nx Highly Pathogenic Avian Influenza Spread in Europe. (Talk)
+
+    ![](/images/IOB26.jpg)
+
+2.  **2026 Ecology and Evolution of Infectious Diseases, Virginia Tech, VA, June 4, 2026:** Inferring Anatidae Connectivity from Occurrence Data Using Seasonal Migration Networks to Inform 2.3.4.4b H5Nx Spread. (Poster)
 
     ![](/images/eeid26.jpg)
 
-2.  **2026 CEIRR 5th Annual Network Meeting, Emory University, GA, May 28, 2026:** Wetlands, Anatidae Migratory Connectivity, and Poultry Trade Drive 2.3.4.4b H5Nx spread in Europe. (Poster)
+3.  **2026 CEIRR 5th Annual Network Meeting, Emory University, GA, May 28, 2026:** Wetlands, Anatidae Migratory Connectivity, and Poultry Trade Drive 2.3.4.4b H5Nx spread in Europe. (Poster)
 
     ![](/images/Ceirr26.jpg)
-    
-3.  **2025 UGA Flu Day Meeting , University of Georgia, GA, September 5, 2025:** Phylogenetic Approaches to Better Understand the Transmission Dynamics of Avian Influenza Viruses. (Oral)
+
+4.  **2025 UGA Flu Day Meeting , University of Georgia, GA, September 5, 2025:** Phylogenetic Approaches to Better Understand the Transmission Dynamics of Avian Influenza Viruses. (Talk )
 
     ![](/images/FluDay.jpg)
 
-4.  **2025 Ecology and Evolution of Infectious Diseases, University of Notre Dame, IN, June 18, 2025:** Investigating the Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe (Poster)
+5.  **2025 Ecology and Evolution of Infectious Diseases, University of Notre Dame, IN, June 18, 2025:** Investigating the Evolutionary Drivers of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe (Poster)
 
     ![](/images/EEID2025.jpg)
 
-5.  **2025 Institute of Bioinformatics (IOB) Spring Retreat, University of Georgia, GA, April 18, 2025:** Investigating the Evolution of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe (Poster)
+6.  **2025 Institute of Bioinformatics (IOB) Spring Retreat, University of Georgia, GA, April 18, 2025:** Investigating the Evolution of 2.3.4.4b H5Nx HPAI Spread Across Species and Geographic Regions in Europe (Poster)
 
 ![](images/IOB2025.jpg){width="1152"}
 
